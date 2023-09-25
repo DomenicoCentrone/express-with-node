@@ -22,7 +22,7 @@ cd nome-del-progetto
 Installa le dipendenze:
 
 npm install
-# o con Yarn
+o con Yarn
 yarn install
 
 
@@ -30,7 +30,7 @@ Utilizzo
 Per avviare l'applicazione, esegui il seguente comando nella root del progetto:
 
 npm start
-# o con Yarn
+o con Yarn
 yarn start
 
 
